@@ -1,1 +1,12 @@
+# Данные ГИС
+*.shp
+*.shx
+*.dbf
+*.prj
+data/
 
+# Служебные
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*.docx
